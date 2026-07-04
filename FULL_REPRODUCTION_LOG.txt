@@ -13,7 +13,7 @@ Supplementary Figure S1 visibility-gap quantification: verified
 Integrated sensitivity and ancient-DNA boundary summary: verified
 Main Table 1 source-receiver audit summaries: verified
 Source-receiver mask country-membership table: verified
-CSV structure: pass (117 files)
+CSV structure: pass (115 files)
 Source-data manifests: pass (89 dependencies)
 File-level provenance: pass (40 hash checks)
 Reproduction status: pass

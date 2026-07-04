@@ -8,3 +8,8 @@ authors:
     orcid: "https://orcid.org/0000-0002-6543-1472"
     affiliation: "Singidunum University"
 date-released: "2026-07-04"
+version: "1.0.1"
+repository-code: "https://github.com/nstanisic1/source-receiver-y-tree-model-checks"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21193503"
