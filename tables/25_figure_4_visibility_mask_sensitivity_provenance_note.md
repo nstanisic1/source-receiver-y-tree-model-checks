@@ -1,0 +1,5 @@
+Table 25 records provenance for the regenerated Figure 4 adversarial sensitivity and adequacy-check artifacts.
+
+The table lists the figure-making script, Figure 4 source-data manifest, expanded Figure 4 value-validation file, render command, output path, and SHA-256 hash for the PNG and PDF artifacts. The renderer validates strict CSV structure, the numbered Figure 4 source-data manifest, and predefined claim checks before drawing the figure, including the ten PH908 adversarial sensitivity states, weak directional compatibility count, zero state-matched R1a-comparator envelope entries, positive-control recovery count, source-visibility burden arithmetic, primary visibility-bias reversal values, generated equal-n rarefaction summaries, low-common-n failure concentration, generated synthetic degradation no-call boundaries, and absence of PH908-like synthetic `A_s` states.
+
+This table is a file-level provenance trace only. It does not replace the Figure 4 source-data bundle and does not provide evidence of PH908 geographic origin, ethnic identity, population continuity, migration route, population-level probability, or a population-size estimate.

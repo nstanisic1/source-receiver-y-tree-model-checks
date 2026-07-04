@@ -1,0 +1,5 @@
+calibration,negative_control_row_count,negative_control_flagged_count,empirical_negative_control_flag_rate,PH908_row_count,PH908_pass_count,empirical_PH908_pass_rate,margin_threshold
+zero_margin_baseline,136,14,0.10294117647058823,136,136,1.0,0.0
+adequacy_only_baseline,136,14,0.10294117647058823,136,136,1.0,0.0
+specificity_calibrated_T95_linear_quantile_threshold,136,7,0.051470588235294115,136,136,1.0,0.031023104985980265
+specificity_calibrated_T95_empirical_nearest_rank_threshold,136,6,0.04411764705882353,136,136,1.0,0.03128545452680154

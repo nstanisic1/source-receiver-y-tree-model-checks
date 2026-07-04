@@ -1,0 +1,8 @@
+denominator_order,conditioned_denominator,denominator_rule,denominator_root_count,denominator_family_count,PH908_rank_within_denominator
+1,All adequate V186-rooted candidates in the analysis snapshot,All adequate V186-rooted candidates retained in the analysis snapshot.,34,6,1
+2,Adequate candidates excluding PH908-nested relatives,Adequate candidates after excluding direct PH908-nested relatives.,28,6,1
+3,Nested clusters represented by largest total sample size,Nested candidate clusters collapsed to the member with the largest total sample size.,18,6,1
+4,Nested clusters represented by maximum diagnostic statistic M,Nested candidate clusters collapsed to the member with the maximum diagnostic statistic M.,18,6,1
+5,"One representative per family, selected by largest total sample size","One representative retained per family, selected by largest total sample size.",6,6,1
+6,Predefined curated non-overlapping cutset,Predefined curated non-overlapping cutset used for denominator sensitivity.,14,6,1
+7,Collapsed non-target set plus PH908,Collapsed non-target comparison set with PH908 retained as the held-out target application.,18,6,1

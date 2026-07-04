@@ -1,0 +1,7 @@
+"section","item","context","status_or_limitation"
+"Evidence layer","YFull","Scoreable branch-resolved layer","Primary branch-resolved layer for the PH908/R1a source-receiver comparator contrast; public-tree evidence layer and not an independent population sample"
+"Evidence layer","HRAS/YSEQ","Scoreable branch-resolved layer","Additional geography-bearing branch-resolved support for the PH908/R1a contrast; supports the source-receiver comparison but does not substitute for direct ancient-DNA evidence"
+"Evidence layer","FTDNA Discover","Bounded direct-child source-adequacy layer","Bounded support for source-adequacy assessment and direct-child country structure; not terminal branch-country Q2 evaluation"
+"Evidence layer","Srpski DNK project","Bounded regional receiver-side layer","Receiver-side PH908 branch-architecture context; not a full Eastern Europe/Russia-to-Balkans source-receiver replication"
+"Evidence layer","UYSD","Topology-only context","PH908 structural-visibility and topology context; no usable geography-bearing PH908 source-receiver statistic in the current analysis"
+"Evidence layer","Ancient-DNA directness audit","Bounded contextual layer","Defines whether published ancient-DNA records satisfy predefined directness criteria; should not be interpreted as positive ancient-DNA evidence for PH908 or as source-receiver replication"

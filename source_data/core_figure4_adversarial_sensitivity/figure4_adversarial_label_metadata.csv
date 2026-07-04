@@ -1,0 +1,10 @@
+label_dimension,label_code,descriptive_label,description
+branch_resolution,deepest_observed,Deepest observed branch layer,Observed terminal branch layer used in the adversarial sensitivity state.
+branch_resolution,count_balanced_frontier,Count-balanced frontier layer,Count-balanced branch-resolution layer used in the adversarial sensitivity state.
+branch_resolution,depth3_cutset,Depth-3 cutset layer,Depth-3 branch cutset used in the adversarial sensitivity state.
+branch_resolution,depth2_cutset,Depth-2 cutset layer,Depth-2 branch cutset used in the adversarial sensitivity state.
+branch_resolution,direct_child_cutset,Direct-child cutset layer,Direct-child branch cutset used in the adversarial sensitivity state.
+ambiguity_handling,ambiguous_included,Ambiguous assignments included,State includes ambiguous public-tree assignments under the predefined ambiguity rule.
+ambiguity_handling,ambiguous_excluded,Ambiguous assignments excluded,State excludes ambiguous public-tree assignments under the predefined ambiguity rule.
+source_mask,all_non_balkan_non_diaspora,"All non-Balkan, non-diaspora source mask",Broad non-Balkan and non-diaspora source mask used in the adversarial sensitivity state.
+source_mask,eastern_northern_western_europe,"Eastern, Northern and Western Europe source mask",European source mask used in the adversarial sensitivity state.

@@ -1,0 +1,5 @@
+display_order,reversal_axis,observed_lineage_root,threshold_target,threshold_rule,threshold_lineage_group,figure_label_prefix,interpretation_rule
+1,source adequacy A_s,I-PH908,basic source adequacy threshold,fixed_value_1,not_applicable,A_s to 1,PH908 source adequacy would need a source-side expansion to reach basic source adequacy under the primary YFull layer.
+2,source adequacy A_s,I-PH908,matched R1a source-adequacy floor,minimum_matched_r1a_source_adequacy_A_s,R-Z280; R-M458,A_s to R1a floor,PH908 source adequacy would need a source-side expansion to reach the less stringent primary matched R1a source-adequacy floor.
+3,source diversity q2,I-PH908,basic receiver-depletion threshold D<0,fixed_value_0,not_applicable,q2 to D<0,PH908 source q2 would need to increase to move the primary diversity contrast below zero if receiver diversity remained fixed.
+4,source diversity q2,I-PH908,matched R1a diversity ceiling,maximum_matched_r1a_diversity_contrast_D,R-Z280; R-M458,q2 to R1a ceiling,PH908 source q2 would need to increase to reach the less stringent primary matched R1a diversity ceiling if receiver diversity remained fixed.

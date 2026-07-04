@@ -1,0 +1,6 @@
+display_order,claim_tier,figure_label,evidentiary_posture,allowed_use,blocked_interpretation
+1,Load-bearing,Load-bearing,Stable evidence under predefined hypothesis and reliability checks,May support or reject the specified source–receiver hypothesis,"Does not assign exact origin, ethnic identity, continuity, or migration route."
+2,Supporting,supporting,Directionally consistent but bounded by data-layer or robustness limits,May contextualize a manuscript claim without carrying it alone,Does not become independent confirmation of origin or continuity.
+3,Diagnostic negative,diagnostic negative,A predefined comparator or stress test fails in an informative way,May demonstrate boundary behavior or method specificity,Does not prove a different geographic source.
+4,Boundary/no-call,boundary/no-call,Data are insufficient or visibility/resolution rules require abstention,May define where the framework refuses inference,Does not imply absence or negative evidence.
+5,Unsupported,unsupported,Claim exceeds the tested hypothesis or the available public-tree evidence,Must be excluded from manuscript claims,"Includes exact origin, ethnic identity, population continuity, route, ancient-DNA confirmation, and population-level probability."

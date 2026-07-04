@@ -1,0 +1,3 @@
+# Table 1 Note
+
+Table 1 is regenerated from the audited benchmark, branch-unit, source-layer, FTDNA Discover, integrated-boundary, and Supplementary Figure S1 completion layers. `Supported` indicates that the tested model meets the predefined source-adequacy criteria under the specified comparison framework. `Not supported` indicates that the tested model does not meet those criteria. `Inconclusive` indicates insufficient phylogenetic resolution, public visibility, or statistical power for a primary decision. Confidence levels reflect the strength and resolution of the available comparative evidence under the tested framework, not certainty about geographic origin, ethnic identity, population continuity, or migration route.

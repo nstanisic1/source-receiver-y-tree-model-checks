@@ -1,0 +1,3 @@
+# Table 10 Note
+
+Table 10 is regenerated from the audited adversarial sensitivity and ancient-DNA directness parent tables. Adversarial sensitivity states summarize predefined mask-flexibility tests and are not treated as load-bearing evidence unless the matched-comparator criteria are also satisfied. Ancient-DNA directness states evaluate whether published ancient male-line proxies satisfy predefined geographic, chronological, sampling-territory, elevation, and phylogenetic-directness criteria. Failure to identify a direct negative control should not be interpreted as positive ancient-DNA evidence for PH908, direct negative evidence for PH908 absence, evidence of continuity, evidence of geographic origin, or evidence for a migration route.

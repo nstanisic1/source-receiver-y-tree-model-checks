@@ -1,0 +1,7 @@
+# Core Figure 3 Specificity/Calibration Source Bundle
+
+This bundle contains the audited margin-separation, matched-block permutation, threshold-calibration, and row-metadata source files used by `scripts/04_generate_figure3_specificity_calibration.py` to generate Table 5 and the Figure 3 specificity/calibration trace.
+
+The margin/permutation source records the observed PH908 and negative-control margin summaries, AUROC, matched-block pair count, paired margin difference, permutation support, and T95 thresholds. The matched-block permutation is restricted to the predefined matched-comparator calibration grid; label exchangeability is limited to the null that held-out and negative-control rows share the same source-receiver margin distribution within those blocks. The threshold-calibration source records negative-control flagging and PH908 recovery under each predefined threshold rule. The row metadata records the descriptive labels, interpretations, limitations, and claim boundaries used in the generated outputs.
+
+Empirical negative-control flag rates are calibration-set quantities. Margin separation, AUROC, matched-block permutation support, and T95 recovery are conditional on the predefined PH908-versus-negative-control comparison framework; they are not population-level false-positive rates and are not evidence of exact geographic origin, ethnic identity, population continuity, or migration route.

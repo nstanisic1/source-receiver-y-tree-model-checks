@@ -1,0 +1,19 @@
+Reliability-aware source-receiver model-checking reproduction
+Repository root: archived release snapshot
+Core YFull source-receiver reliability tables: verified
+Source-layer and headline-coordinate table: verified
+Branch-unit reliability tables and Figure 3 overlay: verified
+Figure 3 specificity/calibration table and trace: verified
+Parser and log-base quality-control tables: verified
+Conditioned-denominator rank context table: verified
+Figure 4 adversarial sensitivity table and traces: verified
+Figure 4 visibility-burden tables and traces: verified
+Figure 4 rarefaction and synthetic degradation controls: verified
+Supplementary Figure S1 visibility-gap quantification: verified
+Integrated sensitivity and ancient-DNA boundary summary: verified
+Main Table 1 source-receiver audit summaries: verified
+Source-receiver mask country-membership table: verified
+CSV structure: pass (117 files)
+Source-data manifests: pass (89 dependencies)
+File-level provenance: pass (40 hash checks)
+Reproduction status: pass

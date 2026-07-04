@@ -1,0 +1,8 @@
+name: source-receiver-yphylogeny
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - matplotlib>=3.8
+  - pandas>=2.0
+  - openpyxl>=3.1

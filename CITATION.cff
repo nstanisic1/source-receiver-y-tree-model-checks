@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the manuscript and this repository. See LICENSE and DATA_USE.md for code-license and data-use boundaries."
+title: "Reliability-aware source–receiver model checks in public Y-chromosome phylogenies"
+type: software
+authors:
+  - family-names: "Stanisic"
+    given-names: "Nemanja"
+    orcid: "https://orcid.org/0000-0002-6543-1472"
+    affiliation: "Singidunum University"
+date-released: "2026-07-04"

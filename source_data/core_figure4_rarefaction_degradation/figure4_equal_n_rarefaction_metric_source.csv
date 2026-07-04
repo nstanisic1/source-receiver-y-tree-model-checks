@@ -1,0 +1,49 @@
+plot_order,source_layer,matched_R1a_comparator,boundary_context,equal_n_rarefaction_n,scoreable_cells,positive_cells
+1,YFull,R-Z280,Matched R1a-envelope baseline,20,1,0
+2,YFull,R-Z280,Matched R1a-envelope baseline,30,1,0
+3,YFull,R-Z280,Matched R1a-envelope baseline,50,1,1
+4,YFull,R-Z280,Matched R1a-envelope baseline,60,1,1
+5,YFull,R-M458,Matched R1a-envelope baseline,20,1,0
+6,YFull,R-M458,Matched R1a-envelope baseline,30,1,1
+7,YFull,R-M458,Matched R1a-envelope baseline,50,1,1
+8,YFull,R-M458,Matched R1a-envelope baseline,60,1,1
+9,YFull,R-Z280,Single-country boundary tests,20,30,0
+10,YFull,R-Z280,Single-country boundary tests,30,30,6
+11,YFull,R-Z280,Single-country boundary tests,50,30,30
+12,YFull,R-Z280,Single-country boundary tests,60,30,30
+13,YFull,R-M458,Single-country boundary tests,20,30,0
+14,YFull,R-M458,Single-country boundary tests,30,30,29
+15,YFull,R-M458,Single-country boundary tests,50,30,30
+16,YFull,R-M458,Single-country boundary tests,60,30,30
+17,YFull,R-Z280,Combined core-corridor boundary tests,20,3,0
+18,YFull,R-Z280,Combined core-corridor boundary tests,30,3,1
+19,YFull,R-Z280,Combined core-corridor boundary tests,50,3,3
+20,YFull,R-Z280,Combined core-corridor boundary tests,60,3,3
+21,YFull,R-M458,Combined core-corridor boundary tests,20,3,1
+22,YFull,R-M458,Combined core-corridor boundary tests,30,3,3
+23,YFull,R-M458,Combined core-corridor boundary tests,50,3,3
+24,YFull,R-M458,Combined core-corridor boundary tests,60,3,3
+25,HRAS/YSEQ,R-Z280,Matched R1a-envelope baseline,20,1,0
+26,HRAS/YSEQ,R-Z280,Matched R1a-envelope baseline,30,1,1
+27,HRAS/YSEQ,R-Z280,Matched R1a-envelope baseline,50,1,1
+28,HRAS/YSEQ,R-Z280,Matched R1a-envelope baseline,60,1,1
+29,HRAS/YSEQ,R-M458,Matched R1a-envelope baseline,20,1,0
+30,HRAS/YSEQ,R-M458,Matched R1a-envelope baseline,30,1,1
+31,HRAS/YSEQ,R-M458,Matched R1a-envelope baseline,50,1,1
+32,HRAS/YSEQ,R-M458,Matched R1a-envelope baseline,60,1,1
+33,HRAS/YSEQ,R-Z280,Single-country boundary tests,20,30,0
+34,HRAS/YSEQ,R-Z280,Single-country boundary tests,30,30,25
+35,HRAS/YSEQ,R-Z280,Single-country boundary tests,50,30,30
+36,HRAS/YSEQ,R-Z280,Single-country boundary tests,60,30,30
+37,HRAS/YSEQ,R-M458,Single-country boundary tests,20,30,1
+38,HRAS/YSEQ,R-M458,Single-country boundary tests,30,30,29
+39,HRAS/YSEQ,R-M458,Single-country boundary tests,50,30,30
+40,HRAS/YSEQ,R-M458,Single-country boundary tests,60,30,30
+41,HRAS/YSEQ,R-Z280,Combined core-corridor boundary tests,20,3,0
+42,HRAS/YSEQ,R-Z280,Combined core-corridor boundary tests,30,3,2
+43,HRAS/YSEQ,R-Z280,Combined core-corridor boundary tests,50,3,3
+44,HRAS/YSEQ,R-Z280,Combined core-corridor boundary tests,60,3,3
+45,HRAS/YSEQ,R-M458,Combined core-corridor boundary tests,20,3,1
+46,HRAS/YSEQ,R-M458,Combined core-corridor boundary tests,30,3,3
+47,HRAS/YSEQ,R-M458,Combined core-corridor boundary tests,50,3,3
+48,HRAS/YSEQ,R-M458,Combined core-corridor boundary tests,60,3,3

@@ -1,0 +1,15 @@
+Code license and repository data-use notice
+
+Copyright (c) 2026 Nemanja Stanisic
+
+The MIT License below applies only to the analysis, validation and figure-generation code in the `scripts` directory and associated code documentation.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the code and associated documentation files in this repository, to deal in the code without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the code, and to permit persons to whom the code is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the code.
+
+THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CODE OR THE USE OR OTHER DEALINGS IN THE CODE.
+
+Repository documentation, figures, tables, source-data bundles and derived aggregate data are not relicensed by the MIT code license. They are provided to support transparency and reproduction of the stated analyses under the repository data-use conditions in `DATA_USE.md`.
+
+Source layers derived from third-party public-tree or ancient-DNA resources remain subject to the terms, citation requirements and publication conditions of their source providers and cited publications. This repository does not redistribute raw upstream resources or relicense third-party data resources.
